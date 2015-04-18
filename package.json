@@ -1,0 +1,14 @@
+{
+  "name": "nodeScrape",
+  "version": "1.0.0",
+  "description": "a web-scraper built in Node.js (http://www.smashingmagazine.com/2015/04/08/web-scraping-with-nodejs/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jakofranko",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.55.0"
+  }
+}
